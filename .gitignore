@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+data/chroma/
+data/chunks/
+data/sample_contracts/
+data/deleted_contracts/

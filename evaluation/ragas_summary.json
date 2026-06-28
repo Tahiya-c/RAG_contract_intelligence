@@ -1,0 +1,7 @@
+{
+  "questions_evaluated": 20,
+  "avg_faithfulness": 0.605,
+  "avg_context_relevance": 0.65,
+  "avg_answer_relevance": 0.775,
+  "overall_score": 0.677
+}

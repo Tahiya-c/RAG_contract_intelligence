@@ -1,0 +1,14 @@
+boto3
+python-dotenv
+pdfplumber
+chromadb
+pandas
+pyarrow
+rank-bm25
+groq
+fastapi
+uvicorn
+streamlit
+requests
+sentence-transformers
+transformers
