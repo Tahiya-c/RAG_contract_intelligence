@@ -1,6 +1,6 @@
 # RAG Contract Intelligence System
 
-A production-grade Retrieval-Augmented Generation (RAG) pipeline for legal contract analysis. Upload PDF contracts, ask natural language questions, and receive grounded answers citing the exact document and section the answer came from. It demonstrates skills in PySpark ETL, S3-compatible object storage, vector databases, hybrid retrieval, and GenAI integration.
+An end=to-end Retrieval-Augmented Generation (RAG) pipeline for legal contract analysis. Upload PDF contracts, ask natural language questions, and receive grounded answers citing the exact document and section the answer came from. It demonstrates skills in PySpark ETL, S3-compatible object storage, vector databases, hybrid retrieval, and GenAI integration.
 
 ---
 
